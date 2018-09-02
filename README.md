@@ -1,4 +1,4 @@
-# NgPromsie
+# NgPromise
 
 ## Step by Step
 
